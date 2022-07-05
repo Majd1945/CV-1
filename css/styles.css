@@ -27,6 +27,9 @@ h3 {
 a {
   color: #11999E;
 }
+a:hover{
+  color: white;
+}
 
 hr {
   background-color: #EAF6F6s;
@@ -69,7 +72,10 @@ hr {
   font-size: 1.5rem;
   text-decoration: none;
 }
-
+.footer-link-num{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
 .bottom-cloud {
   position: absolute;
   left: 300px;
@@ -132,7 +138,9 @@ hr {
   border-radius: 10px;
   background-color: #66BFBF;
 }
-
+.button1:hover{
+  background-color: #30e3cb;
+}
 .btn {
   color: white;
   text-decoration: none;
