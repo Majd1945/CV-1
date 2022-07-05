@@ -74,7 +74,8 @@ hr {
 }
 .footer-link-num{
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
+  font-weight: 600;
 }
 .bottom-cloud {
   position: absolute;
